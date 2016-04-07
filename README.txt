@@ -6,7 +6,7 @@ source ~cmssoft/shrc
 cmsrel CMSSW_7_4_1
 cd CMSSW_7_4_1/src
 cmsenv
-git clone git@github.com:hatakeyamak/Grid.git
+git clone git@github.com:BaylorCMS/Grid.git
 cd Grid/
 cd CrabTestPackage/
 source cmsDriver_commands.sh 
